@@ -1,0 +1,22 @@
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.exe.config
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.pdb
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.Form1.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.Properties.Resources.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\bin\Debug\DiziyiListeyeAktarma.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\DiziyiListeyeAktarma\DiziyiListeyeAktarma\obj\Debug\DiziyiListeyeAktarma.pdb

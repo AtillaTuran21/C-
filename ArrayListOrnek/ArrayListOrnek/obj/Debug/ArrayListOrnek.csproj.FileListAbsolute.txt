@@ -1,0 +1,22 @@
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe.config
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.pdb
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.Form1.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.Properties.Resources.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\bin\Debug\ArrayListOrnek.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ArrayListOrnek\ArrayListOrnek\obj\Debug\ArrayListOrnek.pdb

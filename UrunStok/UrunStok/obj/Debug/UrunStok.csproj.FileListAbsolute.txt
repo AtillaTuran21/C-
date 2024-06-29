@@ -1,0 +1,40 @@
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\bin\Debug\UrunStok.exe.config
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\bin\Debug\UrunStok.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\bin\Debug\UrunStok.pdb
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.Form1.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.Properties.Resources.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C_13_NTP\NTP\UrunStok\UrunStok\obj\Debug\UrunStok.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.pdb
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.exe.config
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.exe
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.pdb
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.exe
+C:\Users\HP\OneDrive\Masaüstü\KLASÖRÜM\EcrinDuymaz10C13\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.pdb
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.exe.config
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.exe
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\bin\Debug\UrunStok.pdb
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.AssemblyReference.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Form1.resources
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.Properties.Resources.resources
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.GenerateResource.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.csproj.CoreCompileInputs.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.exe
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\Nesne Tabanlı Programlama\NTP\Ntp Sınav\UrunStok\UrunStok\obj\Debug\UrunStok.pdb

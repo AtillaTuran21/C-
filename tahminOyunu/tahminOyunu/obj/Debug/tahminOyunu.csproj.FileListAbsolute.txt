@@ -1,0 +1,11 @@
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\bin\Debug\tahminOyunu.exe.config
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\bin\Debug\tahminOyunu.exe
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\bin\Debug\tahminOyunu.pdb
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.Form1.resources
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.Properties.Resources.resources
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.exe
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\tahminOyunu\tahminOyunu\obj\Debug\tahminOyunu.pdb

@@ -1,0 +1,33 @@
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe.config
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.pdb
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Form1.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Properties.Resources.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\bin\Debug\ikiBoyutluDiziler.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\ikiBoyutluDiziler\ikiBoyutluDiziler\obj\Debug\ikiBoyutluDiziler.pdb

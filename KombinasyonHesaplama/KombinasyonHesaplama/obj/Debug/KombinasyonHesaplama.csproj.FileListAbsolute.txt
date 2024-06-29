@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\bin\Debug\KombinasyonHesaplama.exe.config
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\bin\Debug\KombinasyonHesaplama.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\bin\Debug\KombinasyonHesaplama.pdb
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\KombinasyonHesaplama\KombinasyonHesaplama\obj\Debug\KombinasyonHesaplama.pdb

@@ -1,0 +1,21 @@
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.exe.config
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.pdb
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.pdb
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.exe.config
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.exe
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\bin\Debug\sinemaSalonu.pdb
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.AssemblyReference.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.Form1.resources
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.Properties.Resources.resources
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.GenerateResource.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.csproj.CoreCompileInputs.cache
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.exe
+C:\Users\Ecrin Duymaz\Desktop\KLASÖRÜM\NTP\NTP\NTPEV\sinemaSalonu\sinemaSalonu\obj\Debug\sinemaSalonu.pdb

@@ -1,0 +1,22 @@
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.exe.config
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.pdb
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.Form1.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.Properties.Resources.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.exe.config
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\bin\Debug\dizilerSayisalLoto.pdb
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.exe
+C:\Users\HP\OneDrive\Masaüstü\Ntp Sınav\dizilerSayisalLoto\dizilerSayisalLoto\obj\Debug\dizilerSayisalLoto.pdb

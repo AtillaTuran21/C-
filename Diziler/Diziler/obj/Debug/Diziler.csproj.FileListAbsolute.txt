@@ -1,0 +1,11 @@
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\bin\Debug\Diziler.exe.config
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\bin\Debug\Diziler.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\bin\Debug\Diziler.pdb
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.exe
+D:\Giris\Dosyalar\YEDEK\Ecrin_Duymaz_10C1_13\NTP\Diziler\Diziler\obj\Debug\Diziler.pdb

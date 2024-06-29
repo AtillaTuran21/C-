@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swichCase", "swichCase\swichCase.csproj", "{B172772A-7B86-4C29-AF7F-0740B6B5A5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B172772A-7B86-4C29-AF7F-0740B6B5A5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B172772A-7B86-4C29-AF7F-0740B6B5A5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B172772A-7B86-4C29-AF7F-0740B6B5A5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B172772A-7B86-4C29-AF7F-0740B6B5A5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7DA8C5-F303-4FFE-A3C7-5F1B05163638}
+	EndGlobalSection
+EndGlobal

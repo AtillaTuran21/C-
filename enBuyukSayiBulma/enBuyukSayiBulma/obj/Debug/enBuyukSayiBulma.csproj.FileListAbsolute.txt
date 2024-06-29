@@ -1,0 +1,11 @@
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\bin\Debug\enBuyukSayiBulma.exe.config
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\bin\Debug\enBuyukSayiBulma.exe
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\bin\Debug\enBuyukSayiBulma.pdb
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.Form1.resources
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.Properties.Resources.resources
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.exe
+D:\Giris\Dosyalar\Ecrin_Duymaz_10C1_13\NTP\enBuyukSayiBulma\enBuyukSayiBulma\obj\Debug\enBuyukSayiBulma.pdb

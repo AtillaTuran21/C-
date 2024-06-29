@@ -1,0 +1,11 @@
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\bin\Debug\askerDagitimiArrayL.exe.config
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\bin\Debug\askerDagitimiArrayL.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\bin\Debug\askerDagitimiArrayL.pdb
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.csproj.AssemblyReference.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.csproj.SuggestedBindingRedirects.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.Form1.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.Properties.Resources.resources
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.csproj.GenerateResource.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.csproj.CoreCompileInputs.cache
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.exe
+D:\Giris\Dosyalar\Yasin AYNUR\NTP 2023\askerDagitimiArrayL\askerDagitimiArrayL\obj\Debug\askerDagitimiArrayL.pdb

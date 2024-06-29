@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\bin\Debug\AskerDagıtmaProgrami.exe.config
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\bin\Debug\AskerDagıtmaProgrami.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\bin\Debug\AskerDagıtmaProgrami.pdb
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.Form1.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.Properties.Resources.resources
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.exe
+C:\Users\HP\OneDrive\Masaüstü\EcrinDuymaz10C13\NTP\NTPEV\AskerDagıtmaProgrami\AskerDagıtmaProgrami\obj\Debug\AskerDagıtmaProgrami.pdb
